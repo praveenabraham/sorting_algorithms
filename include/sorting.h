@@ -4,5 +4,6 @@
 #include "bubblesort.h"
 #include "insertionsort.h"
 #include "selectionsort.h"
+#include "mergesort.h"
 
 #endif
