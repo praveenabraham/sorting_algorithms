@@ -9,6 +9,7 @@ namespace sorting {
       for (auto i: container) {
         std::cout << i << " ";
       }
+      std::cout << std::endl;
     }
 
   }
