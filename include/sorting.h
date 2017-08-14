@@ -3,7 +3,8 @@
 
 #include "bubblesort.h"
 #include "insertionsort.h"
-#include "selectionsort.h"
 #include "mergesort.h"
+#include "quicksort.h"
+#include "selectionsort.h"
 
 #endif
